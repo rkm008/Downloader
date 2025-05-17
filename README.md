@@ -13,7 +13,7 @@ pkg install python
 
 pkg install yt-dlp
 
-pip install ffmpeg 
+pkg install ffmpeg 
 
 pkg install git -y
 
