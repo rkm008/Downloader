@@ -11,7 +11,7 @@ apt update && apt upgrade -y
 
 pkg install python
 
-pip install yt-dlp
+pkg install yt-dlp
 
 pkg install ffmpeg 
 
