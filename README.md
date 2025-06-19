@@ -35,4 +35,4 @@ python downloader.py
 
 ✅✅ Screenshot 🔥
 
-![Image](Screenshot_2025-06-19-20-08-21-81_84d3000e3f4017145260f7618db1d683.jpg)
+![Image](images/Screenshot_2025-06-19-20-08-21-81_84d3000e3f4017145260f7618db1d683.jpg)
